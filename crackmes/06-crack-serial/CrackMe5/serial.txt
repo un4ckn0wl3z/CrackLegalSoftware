@@ -1,0 +1,11 @@
+name: palm
+key: palm-325452
+
+----------------
+serial calc
+1. using current date ex. 5/2/2020
+2.concat name with date seperate by "-" ex. palm-202052
+3.add current year with 1234 ex. 2020+1234=3254
+4.replace year in key ex. palm-325452
+
+
